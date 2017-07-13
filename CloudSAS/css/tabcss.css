@@ -1,0 +1,15 @@
+.dynamic-tab-pane-control .tab-page {
+	HEIGHT: 200px
+}
+.dynamic-tab-pane-control .tab-page .dynamic-tab-pane-control .tab-page {
+	HEIGHT: 100px
+}
+.dynamic-tab-pane-control H2 {
+	WIDTH: auto; TEXT-ALIGN: center
+}
+.dynamic-tab-pane-control H2 A {
+	DISPLAY: inline; WIDTH: auto
+}
+.dynamic-tab-pane-control A:hover {
+	BACKGROUND: white transparent scroll repeat 0% 0%
+}

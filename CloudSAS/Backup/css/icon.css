@@ -1,0 +1,29 @@
+﻿/*功能菜单树以及Tab图标，格式：icon-树节点名称.png*/
+.icon-none{
+	background-image: url(/images/icons/none.png);
+	}
+.icon-userMgr{
+	background-image: url(/images/icons/userMgr.png);
+	}
+.icon-pwdMgr{
+	background-image:url(/images/icons/pwdMgr.png);}
+.icon-sysExit{
+	background-image:url(/images/icons/sysExit.png);}
+.icon-roleMgr{
+	background-image:url(/images/icons/roleMgr.png);}
+.icon-userInfo{
+	background-image:url(/images/icons/userInfo.png);}
+.icon-publishNews{
+	background-image:url(/images/icons/publishNews.png);}
+
+.icon-DepartmentMenu{
+	background-image:url(/images/icons/DepartmentMenu.png);}
+.icon-NationalInfoMenu{
+	background-image:url(/images/icons/NationalInfoMenu.png);}
+.icon-EmployeeMenu{
+	background-image:url(/images/icons/EmployeeMenu.png);
+	}
+.icon-report{
+	background-image:url(/images/icons/report.png);
+	}
+/*ICONInsertPoint*/

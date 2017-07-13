@@ -1,0 +1,22 @@
+.tab-pane {
+	WIDTH: 100%; MARGIN-RIGHT: -2px; POSITION: relative
+}
+.dynamic-tab-pane-control .tab-row .tab {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; DISPLAY: inline; PADDING-LEFT: 0px; Z-INDEX: 1; FLOAT: left;  PADDING-BOTTOM: 0px; MARGIN: 1px -1px 1px 2px; FONT: 11px Tahoma; OVERFLOW: hidden; BORDER-LEFT: 0px; WIDTH: 70px; CURSOR: default; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; WHITE-SPACE: nowrap; POSITION: relative; TOP: 0px; HEIGHT: 16px; TEXT-ALIGN: center
+}
+.dynamic-tab-pane-control .tab-row .selected {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 3; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 1px -3px -3px 0px; FONT: 11px Tahoma; WIDTH: 74px! important; PADDING-TOP: 2px; TOP: -2px; HEIGHT: 18px! important; 
+}
+.dynamic-tab-pane-control .tab-row .tab A {
+	FONT: 11px Tahoma; CURSOR: default; COLOR: black; TEXT-DECORATION: none
+}
+.dynamic-tab-pane-control .tab-row .hover {
+	 FONT: 11px Tahoma; WIDTH: 70px; HEIGHT: 16px;
+}
+.dynamic-tab-pane-control .tab-page {
+	CLEAR: both; BORDER-RIGHT: rgb(145,155,156) 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: rgb(145,155,156) 1px solid; PADDING-LEFT: 10px; Z-INDEX: 2;  FILTER: progid:DXImageTransform.Microsoft.Gradient(StartColorStr=#ffffff, EndColorStr=#ffffff, GradientType=0)
+					progid:DXImageTransform.Microsoft.Shadow(Color=#ff919899, Strength=2, Direction=135); PADDING-BOTTOM: 10px; FONT: 11px Tahoma; BORDER-LEFT: rgb(145,155,156) 1px solid; COLOR: white; PADDING-TOP: 10px; BORDER-BOTTOM: white 1px solid; POSITION: relative; TOP: -2px
+}
+.dynamic-tab-pane-control .tab-row {
+	Z-INDEX: 1; WHITE-SPACE: nowrap
+}

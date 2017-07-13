@@ -1,0 +1,31 @@
+﻿ .x-default-shortcut {
+    background-image : url(../images/window48x48.png);
+} 
+
+.x-grid-shortcut {
+    background-image : url(../images/grid48x48.png);
+} 
+
+.x-im-shortcut {
+    background-image : url(../images/im48x48.gif);
+}
+
+.x-notepad-shortcut {
+    background-image : url(../images/notepadLarge.png);
+}
+
+.x-status-shortcut {
+    background-image : url(../images/statusLarge.png);
+}
+
+.x-bold-text .x-btn-inner{
+    font-weight: bold !important;
+}
+
+.x-long-label{
+    height:auto !important;
+}
+
+.x-weather-shortcut{
+    background-image : url(../images/weather2.png);
+}

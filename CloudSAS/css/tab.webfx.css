@@ -1,0 +1,24 @@
+.tab-pane {
+	WIDTH: 100%; POSITION: relative
+}
+.dynamic-tab-pane-control .tab-row .tab {
+	BORDER-RIGHT: rgb(120,172,255) 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: 0px; DISPLAY: inline; PADDING-LEFT: 6px; FONT-SIZE: 12px; Z-INDEX: 1; BACKGROUND: white ; FLOAT: left; PADDING-BOTTOM: 3px; MARGIN: 1px -5px 1px 5px; BORDER-LEFT: 0px; CURSOR: pointer; PADDING-TOP: 3px; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Helvetica, Arial; POSITION: relative; TOP: 0px
+}
+.dynamic-tab-pane-control .tab-row .selected {
+	BORDER-RIGHT: rgb(120,172,255) 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: rgb(120,172,255) 1px solid; PADDING-LEFT: 6px; Z-INDEX: 3; BACKGROUND: white; PADDING-BOTTOM: 5px; MARGIN: 1px -6px -2px 0px; BORDER-LEFT: rgb(120,172,255) 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; TOP: -2px
+}
+.dynamic-tab-pane-control .tab-row .tab A {
+	FONT-SIZE: 13px; CURSOR: pointer; COLOR: white; FONT-FAMILY: Verdana, Helvetica, Arial; TEXT-DECORATION: none
+}
+.dynamic-tab-pane-control .tab-row .hover A {
+	COLOR: white
+}
+.dynamic-tab-pane-control .tab-row .selected A {
+	FONT-WEIGHT: bold
+}
+.dynamic-tab-pane-control .tab-page {
+	CLEAR: both; BORDER-RIGHT:white 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: rgb(120,172,255) 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 13px; Z-INDEX: 2; BACKGROUND: white; PADDING-BOTTOM: 10px; BORDER-LEFT: rgb(120,172,255) 1px solid; COLOR: black; PADDING-TOP: 10px; BORDER-BOTTOM: rgb(120,172,255) 1px solid; FONT-FAMILY: Verdana, Helvetica, Arial; POSITION: relative; TOP: -2px
+}
+.dynamic-tab-pane-control .tab-row {
+	Z-INDEX: 1;  WIDTH: 100%; WHITE-SPACE: nowrap; HEIGHT: 1.85em
+}

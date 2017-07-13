@@ -1,0 +1,63 @@
+.sort-table {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonshadow 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: window; BORDER-LEFT: buttonshadow 1px solid; WIDTH: 100%; COLOR: windowtext; LINE-HEIGHT: normal; BORDER-BOTTOM: buttonshadow 1px solid; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.sort-table THEAD {
+	BACKGROUND: buttonface
+}
+.sort-table TFOOT {
+	BACKGROUND: buttonface
+}
+.sort-table TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.sort-table THEAD TD {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonhighlight 1px solid; BORDER-LEFT: buttonhighlight 1px solid; CURSOR: hand; BORDER-BOTTOM: buttonshadow 1px solid; TEXT-ALIGN: center
+}
+.sort-table THEAD TD:active {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 6px; BORDER-LEFT-COLOR: buttonshadow; BORDER-BOTTOM-COLOR: buttonhighlight; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: buttonshadow; PADDING-TOP: 3px; BORDER-RIGHT-COLOR: buttonhighlight
+}
+.sort-table TFOOT TD {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonhighlight 1px solid; BORDER-LEFT: buttonhighlight 1px solid; CURSOR: default; BORDER-BOTTOM: buttonshadow 1px solid
+}
+.sort-table TFOOT TD:active {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 6px; BORDER-LEFT-COLOR: buttonshadow; BORDER-BOTTOM-COLOR: buttonhighlight; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: buttonshadow; PADDING-TOP: 3px; BORDER-RIGHT-COLOR: buttonhighlight
+}
+.sort-arrow {
+	BACKGROUND-POSITION: center center; MARGIN: 0px 1px; WIDTH: 11px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 11px
+}
+.descending {
+	BACKGROUND-IMAGE: url(../images/downsimple.png)
+}
+.ascending {
+	BACKGROUND-IMAGE: url(../images/upsimple.png)
+}
+.even {
+	BACKGROUND: #e0e0e0
+}
+.odd {
+	BACKGROUND: #ffffff
+}
+.no-sort-table {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonshadow 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: window; BORDER-LEFT: buttonshadow 1px solid; WIDTH: 100%; COLOR: windowtext; LINE-HEIGHT: normal; BORDER-BOTTOM: buttonshadow 1px solid; FONT-STYLE: normal; FONT-VARIANT: normal
+}
+.no-sort-table THEAD {
+	BACKGROUND: buttonface; TEXT-ALIGN: center
+}
+.no-sort-table TFOOT {
+	BACKGROUND: buttonface
+}
+.no-sort-table TD {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.no-sort-table THEAD TD {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonhighlight 1px solid; BORDER-LEFT: buttonhighlight 1px solid; BORDER-BOTTOM: buttonshadow 1px solid; TEXT-ALIGN: center
+}
+.no-sort-table THEAD TD:active {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BORDER-LEFT-COLOR: buttonshadow; BORDER-BOTTOM-COLOR: buttonhighlight; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: buttonshadow; PADDING-TOP: 1px; BORDER-RIGHT-COLOR: buttonhighlight
+}
+.no-sort-table TFOOT TD {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonhighlight 1px solid; BORDER-LEFT: buttonhighlight 1px solid; BORDER-BOTTOM: buttonshadow 1px solid
+}
+.no-sort-table TFOOT TD:active {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BORDER-LEFT-COLOR: buttonshadow; BORDER-BOTTOM-COLOR: buttonhighlight; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: buttonshadow; PADDING-TOP: 1px; BORDER-RIGHT-COLOR: buttonhighlight
+}
